@@ -1,3 +1,0 @@
-myriad
-======
-README text here.
